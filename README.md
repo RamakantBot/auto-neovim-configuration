@@ -1,0 +1,1 @@
+# auto-neovim-configuration
